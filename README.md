@@ -8,9 +8,9 @@ AI-powered pipeline that forecasts SKU-level retail demand and generates automat
 
 ```
 demand-signal-intelligence/
-├── pipeline/          ← all pipeline scripts
+├── src/          ← all pipeline scripts
 ├── notebooks/         ← EDA and model comparison notebooks
-├── data/raw/          ← place raw CSV files here
+├── data/          ← place raw CSV files here
 ├── models/            ← saved trained model
 ├── outputs/           ← forecasts, summaries, evaluation plots
 ├── docs/              ← design document and architecture diagram
