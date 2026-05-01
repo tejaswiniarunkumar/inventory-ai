@@ -1,4 +1,4 @@
-# Demand-Signal Intelligence Engine
+# Inventory AI
 
 AI-powered pipeline that forecasts SKU-level retail demand and generates automated store manager summaries using Claude AI.
 
