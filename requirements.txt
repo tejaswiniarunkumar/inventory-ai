@@ -1,0 +1,26 @@
+# Core data
+pandas>=2.2
+numpy>=1.26
+
+# Machine learning
+lightgbm
+scikit-learn
+prophet
+joblib
+
+# Explainability
+shap
+
+# LLM
+anthropic
+python-dotenv
+
+# Visualisation
+matplotlib
+seaborn
+
+# Utilities
+pyarrow
+
+# Dev tools
+ruff
