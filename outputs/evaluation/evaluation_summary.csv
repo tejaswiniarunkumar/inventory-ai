@@ -1,0 +1,2 @@
+baseline_mape,model_mape,model_rmse,model_bias,model_wape,beats_baseline,wf_mean_mape,llm_consistency
+0.39450209151629384,0.17407254489730076,2.6011911375914307,-1.0216502143503023,0.1511205163658176,True,0.17407254489730076,0.52

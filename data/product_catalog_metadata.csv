@@ -1,0 +1,51 @@
+sku_id,category,product_description,is_promotional
+SKU_001,Apparel,High-quality smart item.,False
+SKU_002,Fresh Produce,High-quality compact item.,True
+SKU_003,Pet Supplies,High-quality compact item.,True
+SKU_004,Fresh Produce,High-quality compact item.,False
+SKU_005,Pet Supplies,High-quality smart item.,True
+SKU_006,Fresh Produce,High-quality durable item.,True
+SKU_007,Apparel,High-quality durable item.,False
+SKU_008,Home & Kitchen,High-quality smart item.,False
+SKU_009,Apparel,High-quality compact item.,False
+SKU_010,Home & Kitchen,High-quality durable item.,True
+SKU_011,Pet Supplies,High-quality compact item.,False
+SKU_012,Home & Kitchen,High-quality organic item.,False
+SKU_013,Electronics,High-quality smart item.,True
+SKU_014,Fresh Produce,High-quality smart item.,True
+SKU_015,Pet Supplies,High-quality organic item.,True
+SKU_016,Fresh Produce,High-quality compact item.,False
+SKU_017,Fresh Produce,High-quality organic item.,True
+SKU_018,Apparel,High-quality smart item.,True
+SKU_019,Pet Supplies,High-quality organic item.,True
+SKU_020,Pet Supplies,High-quality compact item.,False
+SKU_021,Pet Supplies,High-quality durable item.,True
+SKU_022,Home & Kitchen,High-quality organic item.,False
+SKU_023,Apparel,High-quality smart item.,True
+SKU_024,Electronics,High-quality organic item.,False
+SKU_025,Apparel,High-quality organic item.,True
+SKU_026,Electronics,High-quality durable item.,False
+SKU_027,Fresh Produce,High-quality durable item.,True
+SKU_028,Apparel,High-quality smart item.,False
+SKU_029,Electronics,High-quality organic item.,True
+SKU_030,Fresh Produce,High-quality durable item.,True
+SKU_031,Apparel,High-quality organic item.,False
+SKU_032,Pet Supplies,High-quality durable item.,False
+SKU_033,Electronics,High-quality compact item.,True
+SKU_034,Pet Supplies,High-quality compact item.,False
+SKU_035,Apparel,High-quality durable item.,True
+SKU_036,Home & Kitchen,High-quality organic item.,False
+SKU_037,Home & Kitchen,High-quality durable item.,False
+SKU_038,Electronics,High-quality compact item.,True
+SKU_039,Apparel,High-quality organic item.,True
+SKU_040,Pet Supplies,High-quality durable item.,False
+SKU_041,Home & Kitchen,High-quality organic item.,True
+SKU_042,Electronics,High-quality smart item.,True
+SKU_043,Apparel,High-quality durable item.,False
+SKU_044,Pet Supplies,High-quality compact item.,True
+SKU_045,Electronics,High-quality durable item.,False
+SKU_046,Electronics,High-quality compact item.,True
+SKU_047,Electronics,High-quality durable item.,True
+SKU_048,Electronics,High-quality compact item.,False
+SKU_049,Apparel,High-quality smart item.,True
+SKU_050,Home & Kitchen,High-quality organic item.,False

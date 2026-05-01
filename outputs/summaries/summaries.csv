@@ -1,0 +1,149 @@
+sku_id,scenario,summary
+sku_001,low_demand,"**Stock Summary for SKU_001 (High-Quality Smart Item)**
+
+Your current stock of 78 units will run out in about 4 days at today's sales pace, but demand is forecast to drop over the next two weeks. To avoid overstock when you reorder, plan to bring in fewer units than usual—aim closer to the 14-day forecast of 121 units rather than your typical larger orders. Consider running a promotion or markdown on this item to boost sales now while stock is low and to maintain momentum during the slower demand period ahead."
+sku_002,low_stock,"**URGENT: Reorder Immediately**
+
+You have only 25 units of this promoted fresh produce item in stock with just 1 day of supply remaining. With an average daily demand of 8 units and a busy Saturday ahead (11 units expected), you risk running out within the next day or two. Place a reorder right away to meet the forecasted demand of 116 units over the next 14 days and prevent stockouts during peak shopping periods."
+sku_003,low_stock,"**URGENT: Reorder Immediately**
+
+Stock for this pet supplies item (SKU sku_003) will run out in 4 days at current sales rates. With the product on promotion, demand is likely to spike—especially on Friday 15 May when you typically sell 12 units. Place a reorder today to avoid stockouts and lost sales during the promotional period."
+sku_004,low_stock,"**URGENT: Reorder Immediately**
+
+Your fresh produce stock (SKU_004) will run out in 3 days at the current sales rate of 8.6 units daily. With only 75 units on hand and demand peaking at 12 units on Friday, you risk being out of stock during your busiest selling period. Place a reorder right away to cover the forecasted 121 units needed over the next 14 days and avoid losing sales."
+sku_005,low_stock,"**URGENT: Reorder Smart Pet Supply Item (SKU_005) Now**
+
+Your stock of 59 units will run out in 3 days at current sales rates, creating a serious risk of stockout. With this item on promotion and Saturday's busy day (11 units) approaching, demand will spike. Place a reorder immediately to avoid losing sales and disappointing customers."
+sku_006,low_demand,"# Stock Summary for SKU_006 (Fresh Produce)
+
+Your current stock of 96 units will run out in 4 days at the current sales rate, but demand is expected to drop over the next 14 days to an average of 8.6 units daily. Since this item is already on promotion, monitor sales closely over the next few days—if demand falls further, consider reducing your next reorder quantity to avoid overstocking. With only 4 days of inventory left, plan your next order carefully based on the lower forecast rather than recent higher sales."
+sku_007,low_stock,"**URGENT: Reorder Now for SKU_007 (Apparel)**
+
+Your stock will run out in just 3 days at the current sales rate of 8 units per day. With 115 units needed over the next two weeks and Saturday seeing peak demand of 11 units, you risk losing sales and disappointing customers if you don't reorder immediately. Place an order today to ensure you have enough inventory to meet demand through the busy weekend and beyond."
+sku_008,low_stock,"**URGENT: Reorder Immediately for SKU_008**
+
+You have only 31 units in stock with just 1 day of supply remaining. At your current sales rate of 8 units per day, you risk running out by tomorrow and losing sales, especially with Friday's expected peak of 11 units. Place a reorder right now to cover the forecasted demand of 115 units over the next 14 days and prevent stockouts."
+sku_009,low_stock,"**URGENT: Reorder Immediately**
+
+Stock for this apparel item (SKU sku_009) will run out in just 3 days at current sales rates. You need to place a reorder right away to avoid losing sales, especially with 12 units expected to sell on Friday 15 May alone. Based on the 14-day forecast showing strong demand, order at least 120 units or more to cover the busy period ahead and rebuild safety stock."
+sku_010,low_stock,"**URGENT: Reorder Immediately**
+
+You have only 49 units of this home & kitchen item in stock with just 2 days of supply remaining. At your current sales rate of 8.5 units per day, you risk running out before your next shipment arrives—especially with Saturday's expected peak of 11 units. Place a reorder today to avoid losing sales on this promoted product."
+sku_011,low_stock,"**URGENT: Reorder Pet Supplies (SKU_011) Immediately**
+
+Your stock will run out in just 3 days at the current sales rate of 7.9 units per day. You need to place a reorder right away to avoid losing sales, especially with Friday (May 15th) expecting peak demand of 11 units. Based on the 14-day forecast requiring 110 units, order enough stock to cover demand plus safety buffer to prevent stockouts."
+sku_012,low_stock,"**URGENT REORDER REQUIRED – SKU_012**
+
+Your stock will run out in just 1 day based on current sales rates. You need to reorder immediately to avoid losing sales, especially with 123 units in demand over the next two weeks and a busy Saturday coming up (11 units expected). Contact your supplier today to secure at least 100+ units to meet forecasted demand and rebuild safety stock."
+sku_013,low_demand,"**Stock Summary for SKU_013 (Smart Item)**
+
+Your current stock of 52 units will run out in just 2 days based on today's sales pace, but the 14-day forecast shows demand dropping to an average of 8.4 units per day. You need to reorder soon, but order less than usual to match the lower expected demand and avoid overstocking. Since this item is already on promotion, monitor whether the discount is driving sales or if you need to adjust the promotion strategy to clear inventory more effectively."
+sku_014,low_stock,"**URGENT: Reorder Immediately**
+
+Your fresh produce stock (SKU 014) will run out in just 3 days at the current sales rate of 9 units per day. With this item on promotion, demand is likely to spike, especially on Friday 15 May when you typically sell 12 units. You need to place a reorder today to avoid losing sales and disappointing customers during the promotional period."
+sku_015,low_stock,"**URGENT: Reorder Needed Immediately**
+
+Your organic pet supplies (SKU 015) will run out in just 4 days at the current sales rate of 9 units per day. With this item on promotion, demand is likely to spike, especially on busy Saturday (May 2nd when you expect 12 units sold), putting you at serious risk of stockouts. Place your reorder today to ensure you have enough stock to meet customer demand over the next two weeks and avoid losing sales."
+sku_016,low_stock,"**URGENT: Reorder Fresh Produce (SKU_016) Immediately**
+
+Your current stock of 81 units will run out in just 4 days based on typical sales rates. With demand expected to peak at 12 units on Saturday, you risk completely selling out before the weekend and losing sales. Place a reorder today to ensure you have enough inventory to meet the forecasted demand of 123 units over the next two weeks."
+sku_017,low_stock,"**URGENT: Reorder Immediately**
+
+You have only 32 units of organic produce (SKU_017) in stock with just 1 day of supply remaining. With daily demand averaging 8.6 units and Saturday expecting 11 units, you risk running out of this promoted item within 24 hours. Place a reorder right away to meet the forecasted demand of 120 units over the next 14 days and avoid losing sales during your busiest period."
+sku_018,low_stock,"**URGENT: Reorder Smart Item (sku_018) Immediately**
+
+Your stock of this promoted apparel item will run out in just 2 days at current sales rates. With an average of 8.4 units selling daily and Friday expecting peak demand (12 units), you risk losing sales and disappointing customers during the promotion. Place a reorder right away to secure at least 118 units to meet the next 14 days of expected demand."
+sku_019,low_stock,"**URGENT: Reorder Immediately**
+
+You have only 34 units of this promoted pet supply item in stock with just 1 day of supply remaining. Your forecast shows you'll need 121 units over the next 14 days, but current stock will run out today or tomorrow. Place a reorder right away to avoid losing sales during the promotion, especially on the busy Friday when demand peaks at 12 units."
+sku_020,low_stock,"**URGENT: Reorder Pet Supplies (SKU_020) Immediately**
+
+You have only 11 units in stock with zero days of supply remaining—you're at critical risk of running out today. With daily demand averaging 8.9 units, your current inventory will be depleted within hours. Place a reorder right away to cover the next 14 days, when you'll need approximately 124 units to meet expected customer demand, especially the busy Friday peak on May 15th."
+sku_021,low_stock,"**URGENT: Reorder Pet Supplies (SKU_021) Immediately**
+
+Your stock of 82 units will run out in just 4 days at current sales rates. Since this item is on promotion, demand is likely to spike further—especially on Saturday when you typically sell 11 units. Place a reorder today to avoid stockouts and lost sales during the promotional period."
+sku_022,low_stock,"**URGENT: Reorder Immediately**
+
+Your organic home & kitchen item (SKU 022) will run out in just 4 days at current sales rates. With expected demand of 120 units over the next 14 days and only 81 units in stock, you risk a stockout before new inventory arrives. Place a reorder today to cover the forecasted demand, especially for the busy Friday (15 May) when you'll sell 12 units."
+sku_023,low_stock,"**URGENT REORDER NEEDED – SKU_023 (Smart Item)**
+
+Your stock will run out in just 3 days at the current sales rate of 8.6 units per day. Since this item is on promotion, demand is likely to spike—especially on Friday when you typically sell 12 units. Place a reorder immediately to avoid losing sales and disappointing customers. Aim to have new stock arrive before the end of this week."
+sku_024,low_stock,"**URGENT: Reorder sku_024 Immediately**
+
+You have only 84 units in stock and will run out in 4 days at current sales rates. With 110 units needed over the next 14 days and peak demand hitting 11 units on Friday, May 15th, you risk losing sales and disappointing customers if you don't reorder now. Place an order today to ensure continuous availability through the busy period ahead."
+sku_025,low_stock,"**URGENT: Reorder Immediately**
+
+Stock for this high-quality organic apparel item (SKU sku_025) will run out in just 1 day—you have only 24 units on hand. With an average daily demand of 8.6 units and a promotion currently active, you're at serious risk of a stockout. Place a reorder right now to meet the forecasted demand of 121 units over the next 14 days, especially to cover the busy Saturday (May 2nd) when you'll need 11 units."
+sku_026,low_stock,"**URGENT: Reorder Immediately for SKU_026 (Electronics)**
+
+You have only 31 units in stock with an estimated 1 day of supply remaining. Based on your forecast of 8.6 units sold daily, you risk running out of this item by tomorrow. Place a reorder right away to avoid stockouts during the busy period ahead, especially on Friday (15 May) when demand peaks at 12 units."
+sku_027,low_stock,"**URGENT: Reorder Immediately**
+
+You have only 42 units of fresh produce (SKU 027) left, which will run out in 2 days at current sales rates. Since this item is on promotion, demand is likely to spike, especially on Friday when you typically sell 12 units — putting you at serious risk of a stockout. Place a reorder today to ensure you can meet customer demand and avoid lost sales during this promotion."
+sku_028,low_stock,"**URGENT: Reorder Needed Immediately**
+
+Your smart apparel item (SKU 028) will run out in just 5 days at the current sales pace of 8.7 units per day. With only 95 units on hand and Saturday expected to be your busiest day, you risk a stockout during peak shopping. Place a reorder today to avoid losing sales and disappointing customers."
+sku_029,low_stock,"**URGENT: Reorder sku_029 Immediately**
+
+Your electronics stock will run out in just 4 days at the current sales rate of 8 units per day. Since this item is on promotion, demand is likely to stay high or increase—Saturday alone could sell 11 units. You need to place a reorder today to avoid losing sales and disappointing customers. Contact your supplier immediately to secure stock before the weekend rush."
+sku_030,low_stock,"**URGENT: Reorder Immediately for SKU_030 (Fresh Produce)**
+
+Your stock will run out in just 3 days at the current sales rate of 8.8 units per day. With this item on promotion and Friday (15 May) showing peak demand of 12 units, you risk a stockout that could disappoint customers and lose sales. Place your reorder today to ensure you have enough inventory to meet the forecasted 123 units needed over the next 14 days."
+sku_031,low_stock,"**URGENT: Reorder Immediately**
+
+You have only 26 units of this organic apparel item left, with just 1 day of stock remaining. With average daily sales of 8.8 units and a peak of 12 units expected on Friday, you will run out within the next day or two. **Place a reorder right away to avoid losing sales and disappointing customers during the busy period ahead.**"
+sku_032,low_demand,"**Stock Summary for SKU_032 (Pet Supplies)**
+
+Your current stock will run out in 3 days, but demand is expected to drop over the next two weeks—averaging just 8.8 units daily instead of your recent pace. Before reordering the full 123 units, consider running a promotion or markdown to boost sales and avoid excess inventory. If you do reorder, aim for a smaller quantity that matches the lower forecast demand."
+sku_033,low_stock,"**URGENT: Reorder sku_033 Immediately**
+
+You have only 18 units in stock with zero days of supply remaining — you risk running out today. This promoted electronics item sells an average of 8 units daily, with demand spiking to 11 units on Saturdays, so stockouts will cost you sales during peak periods. Place your reorder right now to secure the 116 units needed over the next two weeks and avoid losing customers."
+sku_034,low_stock,"**URGENT: Reorder Immediately**
+
+You have only 13 units of this pet supplies item (SKU sku_034) left and stock will run out today. With an average demand of 8 units per day and a forecast of 115 units needed over the next two weeks, you risk losing sales and disappointing customers if you don't reorder right away. Place an urgent order now to cover the forecasted demand and avoid a stockout, especially ahead of the busy Friday (15 May) when you'll need 12 units."
+sku_035,low_stock,"**URGENT: Reorder sku_035 (Apparel) Immediately**
+
+Your stock of 65 units will run out in just 3 days at current sales rates, and you're expecting strong demand over the next two weeks (115 units needed). With Saturday, May 2nd projected to be especially busy, you risk losing sales and disappointing customers if you don't reorder today. Contact your supplier right away to secure stock before your inventory hits zero."
+sku_036,low_stock,"**URGENT: Reorder Immediately**
+
+Your organic home & kitchen item (SKU_036) will run out in just 2 days at the current sales rate of 9 units per day. With 52 units on hand and Friday expecting a sales spike of 12 units, you're at serious risk of a stockout. Place a reorder today to avoid losing sales and disappointing customers during the busy period ahead."
+sku_037,low_stock,"# URGENT REORDER NEEDED – SKU_037
+
+Your home & kitchen item (SKU_037) will run out in just 2 days at the current sales rate of 8 units per day. Place a reorder immediately to avoid stockouts, especially before Friday 15 May when demand peaks at 11 units. With 112 units expected to sell over the next 14 days, you need stock in place now to meet customer demand and prevent lost sales."
+sku_038,low_stock,"**URGENT: Reorder Immediately for SKU_038**
+
+Your stock of this popular electronics item is critically low at just 14 units with zero days remaining. Based on the forecast, you'll need 110 units over the next two weeks, but you're already out of inventory. Place an emergency reorder right now to avoid losing sales, especially heading into the busy Friday peak when demand hits 11 units."
+sku_039,low_stock,"**URGENT: Reorder Required for SKU_039**
+
+Your organic apparel item will run out in just 3 days at current sales rates. With 63 units on hand and average daily sales of 9 units, you risk a stockout before the weekend peak (Saturday expects 12 units sold). **Place a reorder immediately** — the promotion is driving demand, and running out will cost you sales during your busiest day."
+sku_040,low_stock,"**URGENT: Reorder Pet Supplies Item (SKU_040) Immediately**
+
+Your stock of 89 units will run out in just 4 days at current sales rates. With an average daily demand of 9.6 units and a predicted spike to 13 units on Saturday, you risk going out of stock before the weekend rush. Place a reorder today to ensure you have enough inventory to meet the 134 units expected over the next two weeks."
+sku_041,low_stock,"**URGENT: Reorder Immediately**
+
+Stock for this organic home & kitchen item will run out in just 5 days at current sales rates. With 90 units on hand and expected demand of 125 units over the next two weeks, you risk a stockout—especially on the busy Friday when you'll need 12 units. Place your reorder today to avoid losing sales and disappointing customers, particularly since this item is currently on promotion and likely driving higher demand."
+sku_042,low_stock,"**URGENT: Reorder Smart Item (sku_042) Immediately**
+
+Your stock will run out in just 2 days, but customer demand is expected to be 118 units over the next two weeks. You need to place a reorder right away to avoid losing sales, especially on the busy Saturday when you'll need 11 units. With only 39 units on hand and this item currently on promotion, the risk of stockout is very high."
+sku_043,low_stock,"**URGENT: Reorder Immediately**
+
+Your apparel stock (SKU 043) will run out in just 1 day with only 32 units remaining. Based on your forecast, you need about 8 units per day, so you're facing a stockout within 24 hours. Place a reorder right now to avoid losing sales, especially heading into the busy weekend (Saturday expects 10 units sold). Without immediate action, you risk empty shelves and disappointed customers."
+sku_044,low_stock,"**URGENT: Reorder pet supplies (sku_044) immediately.** You have only 4 days of stock remaining before running out, and demand is expected to reach 126 units over the next two weeks. With an average of 9 units sold daily and a peak of 13 units on Friday, you risk losing sales and disappointing customers if you don't reorder now. Prioritize this order to avoid a stockout, especially since this item is currently on promotion and likely driving higher-than-normal sales."
+sku_045,low_stock,"**URGENT REORDER NEEDED – SKU_045 (Electronics)**
+
+Your stock for this high-quality durable item is critically low at just 18 units with **zero days of supply remaining**. With average daily sales of 8.8 units and peak demand of 11 units on Saturday, you risk running out within the next 2 days. **Place a reorder immediately** to cover the forecasted 123 units needed over the next 14 days and prevent lost sales."
+sku_046,low_stock,"**URGENT: Reorder sku_046 Immediately**
+
+You have only 61 units in stock with an estimated 3 days of supply remaining. Based on your sales forecast of 8.6 units per day, you will run out of this promoted electronics item by the end of the week. Place a reorder today to avoid a stockout, especially since Saturday 02 May is your busiest day with expected demand of 11 units."
+sku_047,low_stock,"**URGENT: Reorder sku_047 Immediately**
+
+You have only 34 units in stock with just 1 day of supply remaining. With this item on promotion and an average daily demand of 9 units, you risk running out before the weekend—your busiest sales day expects 12 units on Saturday. Place a reorder now to prevent stockouts and lost sales."
+sku_048,low_stock,"**URGENT: Reorder Immediately**
+
+You have only 66 units of this electronics item in stock, which will run out in just 3 days at the current sales rate of 8.4 units per day. With demand expected to spike to 12 units on Friday 15 May, you risk a complete stockout and lost sales. Place a reorder right away to ensure you have enough inventory to meet the upcoming demand and avoid disappointing customers."
+sku_049,low_stock,"**URGENT: Reorder Immediately**
+
+You have only 29 units of this high-quality smart apparel item left, with just 1 day of stock remaining. Since this product is on promotion and demand averages 8.6 units daily, you risk running out by tomorrow and losing sales. Place a reorder right away to meet the expected 120-unit demand over the next two weeks, especially ahead of the busy Saturday (May 2nd) when you'll need 11 units."
+sku_050,low_stock,"**URGENT: Reorder Immediately**
+
+You have only 75 units of this home & kitchen organic item in stock, which will run out in just 4 days at current sales rates. With an average of 8.6 units sold daily and a peak of 11 units expected this Saturday, you risk a stockout during your busiest period. Place a reorder right away to ensure you have enough inventory to meet customer demand over the next two weeks."
